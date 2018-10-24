@@ -1,0 +1,20 @@
+
+h2 { 
+    color: blue;
+    font-family: 'Roboto Mono', monospace;
+}
+p { 
+    color: orange;
+    font-family: 'Niramit', sans-serif;
+}
+li {
+    color: orange;
+    font-family: 'Playfair Display', serif;
+}
+h1 {
+    color: blue; 
+    font-family: 'Roboto Mono', monospace;
+}
+html {
+    background-image:url("https://vignette.wikia.nocookie.net/bangtanboys/images/f/fc/EC2CEDDB-E5E6-42A9-93A7-0D926E3ACBFB.jpeg/revision/latest/scale-to-width-down/310?cb=20180819114325");
+}
